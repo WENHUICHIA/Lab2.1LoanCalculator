@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
         if (monthlyPayment > (0.3 * salary)){
             monthlyPayment = totalLoan / repayment;
-
+//
         }
 
 
